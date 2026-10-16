@@ -1,0 +1,21 @@
+{
+  "collected_at": "2026-09-30T21:25:33",
+  "cpu_model": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+  "physical_cores": 8,
+  "logical_cores": 16,
+  "cpu_max_ghz": 3.8,
+  "ram_gb": 61.6,
+  "gpu": null,
+  "os": "Windows 11",
+  "os_detail": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.3",
+  "libraries": {
+    "shap": "0.50.0",
+    "lightgbm": "4.6.0",
+    "sklearn": "1.7.2",
+    "lime": "unknown",
+    "numpy": "2.2.6",
+    "scipy": "1.16.1",
+    "pandas": "2.3.0"
+  }
+}

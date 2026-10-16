@@ -1,0 +1,5 @@
+dataset,mean_sparsity,mean_entropy,dim_spread,mean_redundancy,modality_effect_W
+maldroid,0.761,0.057,22.14,0.084,0.017
+cccs,0.368,0.252,7.0,0.052,0.457
+krono_real,0.653,0.078,19.44,0.07,0.833
+krono_emu,0.672,0.063,16.0,0.05,0.93

@@ -1,0 +1,3 @@
+dataset,stab_gap_tree,stab_effect_tree,test
+krono_real,0.1185,0.8328,wilcoxon(2-modality)
+krono_emu,0.1644,0.9302,wilcoxon(2-modality)
