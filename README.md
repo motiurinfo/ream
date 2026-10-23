@@ -11,8 +11,7 @@ confidence interval.
 This repository accompanies the paper:
 
 > S. S. M. M. Rahman and T. Islam, *"REAM: A Reliability-Audit Framework for Trustworthy
-> Explanations in Android Malware Detection,"* submitted to **Expert Systems with
-> Applications** (Elsevier), 2026.
+> Explanations in Android Malware Detection,"* submitted to **Engineering Applications of Artificial Intelligence (EAAI)** (Elsevier), 2026.
 
 ## What REAM does
 
